@@ -35,13 +35,13 @@ Install these in [Arduino IDE](https://docs.arduino.cc/software/ide-v2/tutorials
 ## Create Folders
 In the same Arduino sketch folder:
 SmartCatToyV2/
- ├── SmartCatToyV2.ino
- ├── RTCManager.h
- ├── RTCManager.cpp
- ├── Power.h
- ├── Power.cpp
- ├── CatBehavior.h
- └── CatBehavior.cpp
+</br> ├── SmartCatToyV2.ino
+</br> ├── RTCManager.h
+</br> ├── RTCManager.cpp
+</br> ├── Power.h
+</br> ├── Power.cpp
+</br> ├── CatBehavior.h
+ </br>└── CatBehavior.cpp
 
 # ServoMotion
 ## Motion Types
