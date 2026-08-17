@@ -56,8 +56,7 @@ Behavior - Description
 
 # Power
 Protects battery from excessive discharge and avoids servo trying to run when the battery is too low.
-Battery Voltage - Behavior
->= 3.70 V - Full play session
+Battery Voltage - Behavior </br> = 3.70 V - Full play session
 3.45 - 3.70 V - Shortened play session
 3.30 - 3.45 V - Skip play, sleep until tomorrow
 < 3.30 V - Emergency shutdown until recharged
